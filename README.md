@@ -1,5 +1,4 @@
 # brick-breaker
-# brick-breaker
 This was not an individual project. I completed this project as part of a team assignment (team of 2).
 
 Bugs:
