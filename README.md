@@ -1,6 +1,8 @@
 # brick-breaker
 This was not an individual project. I completed this project as part of a team assignment (team of 2).
 
+The files in the Main Project folder are of a better quality and are more recent than those in the Supplementary Files, but have less functionality(such as having no title screen).
+
 Bugs:
 
 Depending on the collision, the ball may bounce off course(it is assumed this is due to the ball intersecting with multiple bricks at the same time). 
