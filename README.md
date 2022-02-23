@@ -1,5 +1,5 @@
 # brick-breaker
-This was not an individual project. I completed this project as part of a grade 11 final team assignment (team of 2). 
+This was not an individual project. I completed this project as part of a grade 11 final team assignment (team of 2).
 The files in the Main Project folder are of a better quality and are more recent than those in the Supplementary Files, but have less functionality(such as having no title screen).
 
 This project is the brick-breaker game coded with mouse and key controls, sound integration, and a comprehensive visual user interface.
