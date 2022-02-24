@@ -1,6 +1,6 @@
 # brick-breaker
-This was not an individual project. I completed this project as part of a grade 11 final team project (team of 2).
-The files in the Main Project folder are of a better quality and are more recent than those in the Supplementary Files, but have less functionality(such as having no title screen).
+I completed this project as part of a grade 11 final team project (team of 2).
+The files in the Main Project folder are of a better quality and are more recent than those in the Supplementary Files, but have less functionality(such as having no title screen). I was responsible for coding the visual graphics of the game including the motion of the ball and bouncer and the entire brick layout (including varying degrees of thickness), collision detection, and support for mouse and key controls.
 
 This project is the brick-breaker game coded with mouse and key controls, sound integration, and a comprehensive visual user interface.
 
