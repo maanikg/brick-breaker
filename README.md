@@ -1,16 +1,5 @@
 # brick-breaker
-I completed this project as part of a grade 11 final team project (team of 2).
-The files in the Main Project folder are of a better quality and are more recent than those in the Supplementary Files, but have less functionality(such as having no title screen). I was responsible for coding the entire GUI of the game including the motion of the ball and bouncer and the entire brick layout (including varying degrees of thickness), collision detection, and support for mouse and key controls.
-
 This project is the brick-breaker game coded with mouse and key controls, sound integration, and a comprehensive visual user interface.
-
-Bugs:
-
-Depending on the collision, the ball may bounce off course(it is assumed this is due to the ball intersecting with multiple bricks at the same time). 
-
-Features Missing/Added:
- - missing power ups
- - added sound effects
 
 Instructions:
 When the game first starts, move your mouse to decide the trajectory of the ball. Click to start the game.
